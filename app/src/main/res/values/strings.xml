@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalRes</string>
+    <string name="band1">Band 1</string>
+    <string name="band2">Band 2</string>
+    <string name="band3">Band 3</string>
+    <string name="band4">Band 4</string>
+    <string name="Set">"Set "</string>
+    <string name="color_band_1">Color Band 1:</string>
+    <string name="color_band_2">Color Band 2:</string>
+    <string name="color_band_3">Color Band 3:</string>
+    <string name="color_band_4">Color Band 4:</string>
+    <string name="set">Set</string>
+    <string name="resistance_value">Resistance Value:</string>
+</resources>
